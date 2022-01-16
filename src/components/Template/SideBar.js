@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hello, I am Lester. I like building things.
+      <p>Hello, I am Lester. I like building well-architected software.
         I am a <a href="https://college.harvard.edu">Harvard College</a> graduate,
         a <a href="http://stat.columbia.edu/masters-programs/programms-actuarial-science">Columbia</a> alumnus
         , and a software engineer at a cryptocurrency startup. Previously, I was

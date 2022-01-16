@@ -14,6 +14,12 @@ Throughout my career, I have learned how to build teams, manage people, shape cu
 
 - In the fall of 2014, I got my first technology job as a data analyst at [Yext](https://www.yext.com).
 
+- In the spring of 2017, I joined [Littlstar](https://littlstar.com) as a data engineer.
+
+- In the spring of 2019, I joined [Blue Apron](https://www.blueapron.com) as a software engineer.
+
+- In the spring of 2020, I joined [Aliro Quantum](https://www.aliroquantum.com) as a software engineer.
+
 Ask me in person for other stories that I will not share with the internet.
 
 # I like
