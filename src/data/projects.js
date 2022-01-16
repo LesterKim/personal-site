@@ -1,47 +1,26 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Q.Network',
+    subtitle: 'Launched in 2021 at Aliro Quantum',
+    image: '/images/projects/aliroqnetwork.jpg',
+    date: '2021-03-25',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Launched web application to allow users to simulate quantum networks. '
+      + 'This allows researchers to test their designs classically.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Sign in with Apple',
+    subtitle: 'Launched in 2020 at Blue Apron',
+    image: '/images/projects/blueapronsigninwithapple.jpg',
+    date: '2020-04-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  },
-  {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Launched feature to allow users to sign up and in with their Apple IDs. '
+      + 'This met the iOS deadline for apps to incorporate this feature for '
+      + 'all apps using third-party SSO. This page is available at '
+      + 'https://www.blueapron.com/users/sign_up, '
+      + 'at https://www.blueapron.com/users/sign_in, on the iOS app, and on the'
+      + ' Android app.',
   },
 ];
 
