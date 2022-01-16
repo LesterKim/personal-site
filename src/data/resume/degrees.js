@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Columbia University',
+    degree: 'M.S. Actuarial Science',
+    link: 'http://stat.columbia.edu/masters-programs/programms-actuarial-science',
+    year: 2014,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Harvard College',
+    degree: 'A.B. Physics, Secondary Concentration in Mathematical Sciences',
+    link: 'https://college.harvard.edu',
+    year: 2011,
   },
 ];
 
