@@ -72,4 +72,4 @@ const checkPageComponent = async (page) => {
   });
 };
 
-pages.forEach((page) => checkPageComponent(page));
+pages.forEach(checkPageComponent);
